@@ -1,8 +1,6 @@
 🏥 Power BI Project: Hospital Operations & Patient Flow Analytics Dashboard | End-to-End Analysis
 
----
 
-![Hospital Operations Dashboard](assets/hospital_dashboard.png)
 
 Efficient patient flow and operational performance are critical for hospitals to deliver quality care while optimizing resources. In this Power BI project, we analyze hospital operations and patient flow data to identify bottlenecks, monitor capacity utilization, and build an interactive dashboard that supports data-driven healthcare decision-making.
 
