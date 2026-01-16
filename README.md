@@ -1,4 +1,4 @@
-🏥 Power BI Project: Hospital Operations & Patient Flow Analytics Dashboard | End-to-End Analysis
+**🏥 Power BI Project: Hospital Operations & Patient Flow Analytics Dashboard | End-to-End Analysis**
 
 
 
